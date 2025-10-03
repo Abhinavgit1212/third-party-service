@@ -1,0 +1,18 @@
+package com.example.mockmotorapi.model.enums;
+
+public enum VehicleType {
+    CAR,
+    VAN,
+    TRUCKS_LESS_THAN_12_TONS,
+    TRUCKS_GREATER_EQUAL_12_TONS,
+    MOPED,
+    MOTORCYCLES,
+    SPECIAL_VEHICLES,
+    TRUCK,
+    FOUR_WHEELER,
+    TWO_WHEELER,
+    THREE_WHEELER,
+    PASSENGER_CARRYING_VEHICLE,
+    GOODS_CARRYING_VEHICLE,
+    MISCELLANEOUS
+}
